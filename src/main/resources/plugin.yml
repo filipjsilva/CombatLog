@@ -1,0 +1,4 @@
+name: CombatLog
+version: 1.0
+main: br.com.flp.combatLog.CambatLogPlugin
+api-version: 1.21
